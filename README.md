@@ -7,3 +7,5 @@ and hard-coded our todo list.
     lis var that consisted of document.querySelectorAll
     for loop
     3 different .addEventListener(mouseover and mouseout)
+
+3.)Updated css by using .classList.add/toggle/remove to allow our css to manipulate the DOM instead of JS.
